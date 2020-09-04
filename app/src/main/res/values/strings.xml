@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">QuiZy India</string>
+
+    <string name="title">Test your Indie knowledge!</string>
+
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="initial_score">Score 0/13</string>
+
+
+    <string name="incorrect_toast">Wrong!</string>
+    <string name="correct_toast">You got it!</string>
+
+    <string name="question_1">First rocket of India was transported by a bicycle.</string>
+    <string name="question_2">India is the second largest english speaking nation.</string>
+    <string name="question_3">India has the highest cricket ground in the world.</string>
+    <string name="question_4">Indian national kabaddi team has won all world cups.</string>
+    <string name="question_5">The image of KUMBH MELA was visible from space.</string>
+    <string name="question_6">Lion is India\'s national animal.</string>
+    <string name="question_7">There are over 300,000 mosques in India.</string>
+    <string name="question_8">New RBI notes has a GPS chip to detect black money.</string>
+    <string name="question_9">Bandra-Worli Sea Link Has steel Wires Equal to Earth\'s Circumference.</string>
+    <string name="question_10">Most Visited Place in the World, the Golden Temple in Amritsar.</string>
+    <string name="question_11">Hindi is the national language of India.</string>
+    <string name="question_12">Banaras is the oldest existing city in the world .</string>
+    <string name="question_13">India has world\'s first hospital train.</string>
+
+</resources>
